@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "C"; ObjectID = "ZiD-PO-anY"; */
+"ZiD-PO-anY.text" = "C";
+
+/* Class = "UILabel"; text = "London"; ObjectID = "mMV-zS-9ID"; */
+"mMV-zS-9ID.text" = "London";
+
+/* Class = "UILabel"; text = "°"; ObjectID = "xbB-M4-NmR"; */
+"xbB-M4-NmR.text" = "°";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "xeK-uN-ZW4"; */
+"xeK-uN-ZW4.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "21"; ObjectID = "xzk-6J-1Fn"; */
+"xzk-6J-1Fn.text" = "21";
